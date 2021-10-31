@@ -6,5 +6,5 @@ Create an analysis of what cryptocurrencies are on the trading market and how th
 ## Project Results
 There are currently 532 cryptocurrencies. These can be grouped into 4 clusters. 
 
-## Attachments
+## Challenge Attachments
 [crypto_clustering.ipynb](https://github.com/pmoores/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
